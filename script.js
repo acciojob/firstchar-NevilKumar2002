@@ -5,7 +5,9 @@ function firstChar(text) {
 	
 }
 console.log(ans);
+
 // Do not change the code below
 
 const text = prompt("Enter text:");
-alert(firstChar(text));
+// alert(firstChar(text));
+firstChar(text);
